@@ -35,10 +35,10 @@
 
 ## Day 2
 
-— Date: __________
+— Date: _____absent_____
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
+- What were you trying to accomplish? to do the measure meants
 - What steps did you plan to take?
 - What materials, parts, or tools did you need?
 
@@ -70,7 +70,7 @@
 
 ## Day 3
 
-— Date: __________
+— Date: ___ absent_______
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
@@ -100,3 +100,32 @@
 - What did you accomplish?
 - What would you do differently?
 - What are your next steps for the next class?
+
+
+
+
+
+
+## Day 5
+— Date: ____11/13/26______
+
+Required notebook update today:
+
+Cardboard measurement length: 3.9 inches
+
+Cardboard measurement width: 2.7 inches
+
+Robot measurement length: 10.7 inches
+
+Robot measurement width: 11 inches
+
+Length scale: _2.74:1
+
+Width scale: 4.07__:_1_
+
+Smallest width of the model racetrack: _40__mm
+Apply scale: smallest width X scale = __162.8_ mm
+
+Convert to cm =16.28
+
+Reflection: what you learned today to measure the cardboard and to measure the track.
